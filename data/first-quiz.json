@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Que signifie « intelligence artificielle » ?",
+    "options": [
+      "Un ensemble de techniques permettant à des systèmes d’effectuer certaines tâches associées à l’intelligence",
+      "Un ordinateur qui possède forcément une conscience",
+      "Un appareil capable seulement de stocker des fichiers",
+      "Un programme qui ne fonctionne jamais sans Internet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lequel est un exemple courant d’IA ?",
+    "options": [
+      "Une calculatrice qui additionne deux nombres",
+      "Un système qui reconnaît des objets dans une photo",
+      "Un interrupteur mécanique",
+      "Une feuille de papier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "À quoi sert principalement l’apprentissage automatique ?",
+    "options": [
+      "À apprendre des régularités à partir de données",
+      "À remplacer la mémoire vive",
+      "À accélérer physiquement le clavier",
+      "À garantir que toutes les réponses soient exactes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quel domaine est associé à la compréhension du langage ?",
+    "options": [
+      "La reconnaissance vocale et le traitement automatique des langues",
+      "La réparation d’écran",
+      "Le refroidissement d’ordinateur",
+      "La production d’électricité"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qu’est-ce qu’une IA générative peut produire ?",
+    "options": [
+      "Uniquement des nombres aléatoires",
+      "Du texte, des images ou du son selon le modèle",
+      "Seulement des pièces matérielles",
+      "Toujours des informations vérifiées"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un assistant IA peut-il se tromper ?",
+    "options": [
+      "Non, jamais",
+      "Oui, ses réponses doivent parfois être vérifiées",
+      "Seulement lorsque l’écran est éteint",
+      "Uniquement dans les jeux vidéo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quelle affirmation décrit bien une IA spécialisée ?",
+    "options": [
+      "Elle est optimisée pour un ensemble précis de tâches",
+      "Elle sait automatiquement tout faire",
+      "Elle possède nécessairement des émotions",
+      "Elle ne peut jamais être utilisée en entreprise"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Que faire avant de partager des données sensibles avec une IA ?",
+    "options": [
+      "Vérifier les paramètres, autorisations et règles de confidentialité",
+      "Les publier dans une conversation publique",
+      "Ignorer l’origine du service",
+      "Désactiver toute protection de compte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un système qui recommande des films peut utiliser :",
+    "options": [
+      "Des méthodes d’apprentissage automatique",
+      "Uniquement une caméra",
+      "Exclusivement un moteur de recherche papier",
+      "Un câble spécial sans logiciel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quelle attitude est préférable face à une réponse importante de l’IA ?",
+    "options": [
+      "La recopier sans la relire",
+      "La contrôler à l’aide de sources fiables si nécessaire",
+      "Supposer qu’elle est juridiquement garantie",
+      "Ne jamais demander de précisions"
+    ],
+    "correctIndex": 1
+  }
+]

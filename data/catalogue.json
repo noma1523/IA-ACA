@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "title": "Découvrir l’IA et réussir son premier échange",
+    "emoji": "🤖",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l001",
+        "number": 1,
+        "moduleId": 1,
+        "position": 1,
+        "title": "Définition et grandes familles"
+      },
+      {
+        "id": "l002",
+        "number": 2,
+        "moduleId": 1,
+        "position": 2,
+        "title": "Découvrir l’interface"
+      },
+      {
+        "id": "l003",
+        "number": 3,
+        "moduleId": 1,
+        "position": 3,
+        "title": "Historique et confidentialité"
+      },
+      {
+        "id": "l004",
+        "number": 4,
+        "moduleId": 1,
+        "position": 4,
+        "title": "Poser ses premières questions"
+      },
+      {
+        "id": "l005",
+        "number": 5,
+        "moduleId": 1,
+        "position": 5,
+        "title": "Continuer une conversation"
+      },
+      {
+        "id": "l006",
+        "number": 6,
+        "moduleId": 1,
+        "position": 6,
+        "title": "Possibilités, limites et responsabilité"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Les bases numériques, seulement si nécessaire",
+    "emoji": "💻",
+    "optional": true,
+    "lessons": [
+      {
+        "id": "l007",
+        "number": 7,
+        "moduleId": 2,
+        "position": 1,
+        "title": "Applications, sites et navigateurs"
+      },
+      {
+        "id": "l008",
+        "number": 8,
+        "moduleId": 2,
+        "position": 2,
+        "title": "Faire une recherche sur Internet"
+      },
+      {
+        "id": "l009",
+        "number": 9,
+        "moduleId": 2,
+        "position": 3,
+        "title": "Créer et protéger un compte"
+      },
+      {
+        "id": "l010",
+        "number": 10,
+        "moduleId": 2,
+        "position": 4,
+        "title": "Écrire, sélectionner et copier du texte"
+      },
+      {
+        "id": "l011",
+        "number": 11,
+        "moduleId": 2,
+        "position": 5,
+        "title": "Fichiers, photos et documents"
+      },
+      {
+        "id": "l012",
+        "number": 12,
+        "moduleId": 2,
+        "position": 6,
+        "title": "Préparer son espace de travail"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Comprendre les usages et interagir sans exposer ses données",
+    "emoji": "🔐",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l013",
+        "number": 13,
+        "moduleId": 3,
+        "position": 1,
+        "title": "Où rencontre-t-on déjà l’IA ?"
+      },
+      {
+        "id": "l014",
+        "number": 14,
+        "moduleId": 3,
+        "position": 2,
+        "title": "Qu’est-ce que l’IA générative ?"
+      },
+      {
+        "id": "l015",
+        "number": 15,
+        "moduleId": 3,
+        "position": 3,
+        "title": "Assistants, outils et modèles"
+      },
+      {
+        "id": "l016",
+        "number": 16,
+        "moduleId": 3,
+        "position": 4,
+        "title": "Confidentialité et autorisations"
+      },
+      {
+        "id": "l017",
+        "number": 17,
+        "moduleId": 3,
+        "position": 5,
+        "title": "Parler à une IA"
+      },
+      {
+        "id": "l018",
+        "number": 18,
+        "moduleId": 3,
+        "position": 6,
+        "title": "Joindre une photo ou un document"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Formuler une demande qui donne un résultat exploitable",
+    "emoji": "✍️",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l019",
+        "number": 19,
+        "moduleId": 4,
+        "position": 1,
+        "title": "Objectif et demande claire"
+      },
+      {
+        "id": "l020",
+        "number": 20,
+        "moduleId": 4,
+        "position": 2,
+        "title": "Donner le bon contexte"
+      },
+      {
+        "id": "l021",
+        "number": 21,
+        "moduleId": 4,
+        "position": 3,
+        "title": "Préciser le format"
+      },
+      {
+        "id": "l022",
+        "number": 22,
+        "moduleId": 4,
+        "position": 4,
+        "title": "Contraintes et critères de qualité"
+      },
+      {
+        "id": "l023",
+        "number": 23,
+        "moduleId": 4,
+        "position": 5,
+        "title": "Apprendre par exemples"
+      },
+      {
+        "id": "l024",
+        "number": 24,
+        "moduleId": 4,
+        "position": 6,
+        "title": "Assembler et améliorer un prompt"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vérifier, exercer son jugement et éviter les risques",
+    "emoji": "🛡️",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l025",
+        "number": 25,
+        "moduleId": 5,
+        "position": 1,
+        "title": "Comprendre les hallucinations"
+      },
+      {
+        "id": "l026",
+        "number": 26,
+        "moduleId": 5,
+        "position": 2,
+        "title": "Vérifier avec des sources primaires"
+      },
+      {
+        "id": "l027",
+        "number": 27,
+        "moduleId": 5,
+        "position": 3,
+        "title": "Reconnaître les biais"
+      },
+      {
+        "id": "l028",
+        "number": 28,
+        "moduleId": 5,
+        "position": 4,
+        "title": "Droit d’auteur, consentement et contenu synthétique"
+      },
+      {
+        "id": "l029",
+        "number": 29,
+        "moduleId": 5,
+        "position": 5,
+        "title": "Décisions à haut risque et prévention des fraudes"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Améliorer une réponse et construire sa méthode",
+    "emoji": "🧩",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l030",
+        "number": 30,
+        "moduleId": 6,
+        "position": 1,
+        "title": "Demander une explication plus simple"
+      },
+      {
+        "id": "l031",
+        "number": 31,
+        "moduleId": 6,
+        "position": 2,
+        "title": "Corriger sans tout refaire"
+      },
+      {
+        "id": "l032",
+        "number": 32,
+        "moduleId": 6,
+        "position": 3,
+        "title": "Obtenir plusieurs alternatives"
+      },
+      {
+        "id": "l033",
+        "number": 33,
+        "moduleId": 6,
+        "position": 4,
+        "title": "Décomposer une tâche longue"
+      },
+      {
+        "id": "l034",
+        "number": 34,
+        "moduleId": 6,
+        "position": 5,
+        "title": "Gérer les échanges longs"
+      },
+      {
+        "id": "l035",
+        "number": 35,
+        "moduleId": 6,
+        "position": 6,
+        "title": "Créer sa bibliothèque de méthodes"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Utiliser l’IA dans la vie quotidienne",
+    "emoji": "🏡",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l036",
+        "number": 36,
+        "moduleId": 7,
+        "position": 1,
+        "title": "Rédiger des messages du quotidien"
+      },
+      {
+        "id": "l037",
+        "number": 37,
+        "moduleId": 7,
+        "position": 2,
+        "title": "Planifier sa semaine"
+      },
+      {
+        "id": "l038",
+        "number": 38,
+        "moduleId": 7,
+        "position": 3,
+        "title": "Préparer menus et courses"
+      },
+      {
+        "id": "l039",
+        "number": 39,
+        "moduleId": 7,
+        "position": 4,
+        "title": "Organiser un déplacement"
+      },
+      {
+        "id": "l040",
+        "number": 40,
+        "moduleId": 7,
+        "position": 5,
+        "title": "Comprendre et organiser un budget"
+      },
+      {
+        "id": "l041",
+        "number": 41,
+        "moduleId": 7,
+        "position": 6,
+        "title": "Comparer et choisir une solution"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Apprendre avec l’IA sans dépendre de ses réponses",
+    "emoji": "📚",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l042",
+        "number": 42,
+        "moduleId": 8,
+        "position": 1,
+        "title": "Transformer l’IA en professeur"
+      },
+      {
+        "id": "l043",
+        "number": 43,
+        "moduleId": 8,
+        "position": 2,
+        "title": "Comprendre les concepts difficiles"
+      },
+      {
+        "id": "l044",
+        "number": 44,
+        "moduleId": 8,
+        "position": 3,
+        "title": "Résumer sans perdre l’essentiel"
+      },
+      {
+        "id": "l045",
+        "number": 45,
+        "moduleId": 8,
+        "position": 4,
+        "title": "Créer des fiches de révision"
+      },
+      {
+        "id": "l046",
+        "number": 46,
+        "moduleId": 8,
+        "position": 5,
+        "title": "Faire des exercices et des quiz"
+      },
+      {
+        "id": "l047",
+        "number": 47,
+        "moduleId": 8,
+        "position": 6,
+        "title": "Construire un plan d’apprentissage"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Rechercher, comparer les sources et documenter",
+    "emoji": "🔎",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l048",
+        "number": 48,
+        "moduleId": 9,
+        "position": 1,
+        "title": "Recherche web versus réponse générée"
+      },
+      {
+        "id": "l049",
+        "number": 49,
+        "moduleId": 9,
+        "position": 2,
+        "title": "Construire une bonne question"
+      },
+      {
+        "id": "l050",
+        "number": 50,
+        "moduleId": 9,
+        "position": 3,
+        "title": "Retrouver une source primaire"
+      },
+      {
+        "id": "l051",
+        "number": 51,
+        "moduleId": 9,
+        "position": 4,
+        "title": "Comparer des résultats contradictoires"
+      },
+      {
+        "id": "l052",
+        "number": 52,
+        "moduleId": 9,
+        "position": 5,
+        "title": "Lire et analyser plusieurs documents"
+      },
+      {
+        "id": "l053",
+        "number": 53,
+        "moduleId": 9,
+        "position": 6,
+        "title": "Rédiger une synthèse documentée"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Écrire et livrer des documents utiles",
+    "emoji": "📝",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l054",
+        "number": 54,
+        "moduleId": 10,
+        "position": 1,
+        "title": "Écrire un email efficace"
+      },
+      {
+        "id": "l055",
+        "number": 55,
+        "moduleId": 10,
+        "position": 2,
+        "title": "Corriger et reformuler"
+      },
+      {
+        "id": "l056",
+        "number": 56,
+        "moduleId": 10,
+        "position": 3,
+        "title": "Préparer un document structuré"
+      },
+      {
+        "id": "l057",
+        "number": 57,
+        "moduleId": 10,
+        "position": 4,
+        "title": "CV et candidature"
+      },
+      {
+        "id": "l058",
+        "number": 58,
+        "moduleId": 10,
+        "position": 5,
+        "title": "Créer une présentation"
+      },
+      {
+        "id": "l059",
+        "number": 59,
+        "moduleId": 10,
+        "position": 6,
+        "title": "Relire, mettre en page et exporter"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Travailler avec des tableaux et analyser des données",
+    "emoji": "📊",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l060",
+        "number": 60,
+        "moduleId": 11,
+        "position": 1,
+        "title": "Lire un tableau"
+      },
+      {
+        "id": "l061",
+        "number": 61,
+        "moduleId": 11,
+        "position": 2,
+        "title": "Créer un tableau propre"
+      },
+      {
+        "id": "l062",
+        "number": 62,
+        "moduleId": 11,
+        "position": 3,
+        "title": "Nettoyage et qualité des données"
+      },
+      {
+        "id": "l063",
+        "number": 63,
+        "moduleId": 11,
+        "position": 4,
+        "title": "Formules et calculs simples"
+      },
+      {
+        "id": "l064",
+        "number": 64,
+        "moduleId": 11,
+        "position": 5,
+        "title": "Choisir un graphique"
+      },
+      {
+        "id": "l065",
+        "number": 65,
+        "moduleId": 11,
+        "position": 6,
+        "title": "Interpréter et communiquer une analyse"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Créer des images, de l’audio et une vidéo contrôlée",
+    "emoji": "🎨",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l066",
+        "number": 66,
+        "moduleId": 12,
+        "position": 1,
+        "title": "Comprendre les médias génératifs"
+      },
+      {
+        "id": "l067",
+        "number": 67,
+        "moduleId": 12,
+        "position": 2,
+        "title": "Rédiger une description d’image"
+      },
+      {
+        "id": "l068",
+        "number": 68,
+        "moduleId": 12,
+        "position": 3,
+        "title": "Modifier et vérifier une image"
+      },
+      {
+        "id": "l069",
+        "number": 69,
+        "moduleId": 12,
+        "position": 4,
+        "title": "Écrire un script et un storyboard"
+      },
+      {
+        "id": "l070",
+        "number": 70,
+        "moduleId": 12,
+        "position": 5,
+        "title": "Audio et sous-titres"
+      },
+      {
+        "id": "l071",
+        "number": 71,
+        "moduleId": 12,
+        "position": 6,
+        "title": "Produire et contrôler une vidéo"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Comprendre ce qui se passe derrière les réponses",
+    "emoji": "🧠",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l072",
+        "number": 72,
+        "moduleId": 13,
+        "position": 1,
+        "title": "Comment une machine apprend"
+      },
+      {
+        "id": "l073",
+        "number": 73,
+        "moduleId": 13,
+        "position": 2,
+        "title": "Des premières approches aux modèles actuels"
+      },
+      {
+        "id": "l074",
+        "number": 74,
+        "moduleId": 13,
+        "position": 3,
+        "title": "Apprentissage supervisé, non supervisé et renforcement"
+      },
+      {
+        "id": "l075",
+        "number": 75,
+        "moduleId": 13,
+        "position": 4,
+        "title": "Tokens, vecteurs et réseaux neuronaux"
+      },
+      {
+        "id": "l076",
+        "number": 76,
+        "moduleId": 13,
+        "position": 5,
+        "title": "Transformers et mécanisme d’attention"
+      },
+      {
+        "id": "l077",
+        "number": 77,
+        "moduleId": 13,
+        "position": 6,
+        "title": "Préentraînement, ajustement et inférence"
+      },
+      {
+        "id": "l078",
+        "number": 78,
+        "moduleId": 13,
+        "position": 7,
+        "title": "Génération, raisonnement apparent et erreurs"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Comparer les technologies sur ses propres tâches",
+    "emoji": "⚖️",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l079",
+        "number": 79,
+        "moduleId": 14,
+        "position": 1,
+        "title": "Application, modèle, moteur et service"
+      },
+      {
+        "id": "l080",
+        "number": 80,
+        "moduleId": 14,
+        "position": 2,
+        "title": "Comparer les assistants généralistes"
+      },
+      {
+        "id": "l081",
+        "number": 81,
+        "moduleId": 14,
+        "position": 3,
+        "title": "Recherche assistée et citations"
+      },
+      {
+        "id": "l082",
+        "number": 82,
+        "moduleId": 14,
+        "position": 4,
+        "title": "Outils d’images, de vidéo et de voix"
+      },
+      {
+        "id": "l083",
+        "number": 83,
+        "moduleId": 14,
+        "position": 5,
+        "title": "Ouvert, fermé, local et cloud"
+      },
+      {
+        "id": "l084",
+        "number": 84,
+        "moduleId": 14,
+        "position": 6,
+        "title": "Construire un benchmark personnel"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Choisir une boîte à outils minimale et sûre",
+    "emoji": "🧰",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l085",
+        "number": 85,
+        "moduleId": 15,
+        "position": 1,
+        "title": "Classer les familles d’outils"
+      },
+      {
+        "id": "l086",
+        "number": 86,
+        "moduleId": 15,
+        "position": 2,
+        "title": "Comprendre les offres et les limites"
+      },
+      {
+        "id": "l087",
+        "number": 87,
+        "moduleId": 15,
+        "position": 3,
+        "title": "Évaluer la sécurité d’un nouveau service"
+      },
+      {
+        "id": "l088",
+        "number": 88,
+        "moduleId": 15,
+        "position": 4,
+        "title": "Mesurer la qualité d’un assistant"
+      },
+      {
+        "id": "l089",
+        "number": 89,
+        "moduleId": 15,
+        "position": 5,
+        "title": "Tester un outil inconnu"
+      },
+      {
+        "id": "l090",
+        "number": 90,
+        "moduleId": 15,
+        "position": 6,
+        "title": "Construire une boîte à outils minimale"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Créer un assistant et automatiser sous contrôle",
+    "emoji": "⚙️",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l091",
+        "number": 91,
+        "moduleId": 16,
+        "position": 1,
+        "title": "Définir un assistant spécialisé"
+      },
+      {
+        "id": "l092",
+        "number": 92,
+        "moduleId": 16,
+        "position": 2,
+        "title": "Rédiger des instructions persistantes"
+      },
+      {
+        "id": "l093",
+        "number": 93,
+        "moduleId": 16,
+        "position": 3,
+        "title": "Découper un processus"
+      },
+      {
+        "id": "l094",
+        "number": 94,
+        "moduleId": 16,
+        "position": 4,
+        "title": "Déclencheurs et actions sans code"
+      },
+      {
+        "id": "l095",
+        "number": 95,
+        "moduleId": 16,
+        "position": 5,
+        "title": "Que font les agents IA ?"
+      },
+      {
+        "id": "l096",
+        "number": 96,
+        "moduleId": 16,
+        "position": 6,
+        "title": "Tester et surveiller une automatisation"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Réaliser son projet autonome de bout en bout",
+    "emoji": "🚀",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l097",
+        "number": 97,
+        "moduleId": 17,
+        "position": 1,
+        "title": "Choisir un problème utile"
+      },
+      {
+        "id": "l098",
+        "number": 98,
+        "moduleId": 17,
+        "position": 2,
+        "title": "Définir des objectifs mesurables"
+      },
+      {
+        "id": "l099",
+        "number": 99,
+        "moduleId": 17,
+        "position": 3,
+        "title": "Préparer les données et les sources"
+      },
+      {
+        "id": "l100",
+        "number": 100,
+        "moduleId": 17,
+        "position": 4,
+        "title": "Produire par étapes"
+      },
+      {
+        "id": "l101",
+        "number": 101,
+        "moduleId": 17,
+        "position": 5,
+        "title": "Vérifier et documenter"
+      },
+      {
+        "id": "l102",
+        "number": 102,
+        "moduleId": 17,
+        "position": 6,
+        "title": "Présenter et poursuivre l’apprentissage"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Choisir une voie professionnelle réaliste",
+    "emoji": "💼",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l103",
+        "number": 103,
+        "moduleId": 18,
+        "position": 1,
+        "title": "Comprendre les opportunités"
+      },
+      {
+        "id": "l104",
+        "number": 104,
+        "moduleId": 18,
+        "position": 2,
+        "title": "Freelance, salariat, service et produit"
+      },
+      {
+        "id": "l105",
+        "number": 105,
+        "moduleId": 18,
+        "position": 3,
+        "title": "Évaluer ses compétences et ses limites"
+      },
+      {
+        "id": "l106",
+        "number": 106,
+        "moduleId": 18,
+        "position": 4,
+        "title": "Prestations accessibles aux débutants"
+      },
+      {
+        "id": "l107",
+        "number": 107,
+        "moduleId": 18,
+        "position": 5,
+        "title": "Trouver des problèmes clients"
+      },
+      {
+        "id": "l108",
+        "number": 108,
+        "moduleId": 18,
+        "position": 6,
+        "title": "Construire un plan de transition prudent"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Valider un besoin avant de construire une offre",
+    "emoji": "🎯",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l109",
+        "number": 109,
+        "moduleId": 19,
+        "position": 1,
+        "title": "Identifier des problèmes réels"
+      },
+      {
+        "id": "l110",
+        "number": 110,
+        "moduleId": 19,
+        "position": 2,
+        "title": "Explorer le marché avec l’IA"
+      },
+      {
+        "id": "l111",
+        "number": 111,
+        "moduleId": 19,
+        "position": 3,
+        "title": "Définir son client idéal"
+      },
+      {
+        "id": "l112",
+        "number": 112,
+        "moduleId": 19,
+        "position": 4,
+        "title": "Mener des entretiens utiles"
+      },
+      {
+        "id": "l113",
+        "number": 113,
+        "moduleId": 19,
+        "position": 5,
+        "title": "Formuler la proposition de valeur"
+      },
+      {
+        "id": "l114",
+        "number": 114,
+        "moduleId": 19,
+        "position": 6,
+        "title": "Tester avant d’investir"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Créer une offre, la chiffrer et livrer une première mission",
+    "emoji": "🤝",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l115",
+        "number": 115,
+        "moduleId": 20,
+        "position": 1,
+        "title": "Choisir un service précis"
+      },
+      {
+        "id": "l116",
+        "number": 116,
+        "moduleId": 20,
+        "position": 2,
+        "title": "Créer un portfolio crédible"
+      },
+      {
+        "id": "l117",
+        "number": 117,
+        "moduleId": 20,
+        "position": 3,
+        "title": "Calculer prix, coûts et marge"
+      },
+      {
+        "id": "l118",
+        "number": 118,
+        "moduleId": 20,
+        "position": 4,
+        "title": "Construire une offre et un devis"
+      },
+      {
+        "id": "l119",
+        "number": 119,
+        "moduleId": 20,
+        "position": 5,
+        "title": "Prospecter avec respect"
+      },
+      {
+        "id": "l120",
+        "number": 120,
+        "moduleId": 20,
+        "position": 6,
+        "title": "Mener et livrer une mission"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Préparer une activité et un lancement réalistes",
+    "emoji": "🌐",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l121",
+        "number": 121,
+        "moduleId": 21,
+        "position": 1,
+        "title": "Positionnement et identité"
+      },
+      {
+        "id": "l122",
+        "number": 122,
+        "moduleId": 21,
+        "position": 2,
+        "title": "Construire un site vitrine"
+      },
+      {
+        "id": "l123",
+        "number": 123,
+        "moduleId": 21,
+        "position": 3,
+        "title": "Préparer une méthode de vente"
+      },
+      {
+        "id": "l124",
+        "number": 124,
+        "moduleId": 21,
+        "position": 4,
+        "title": "Facturation et organisation administrative"
+      },
+      {
+        "id": "l125",
+        "number": 125,
+        "moduleId": 21,
+        "position": 5,
+        "title": "Préparer un lancement réaliste"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Fidéliser, piloter et grandir sans perdre le contrôle",
+    "emoji": "🌱",
+    "optional": false,
+    "lessons": [
+      {
+        "id": "l126",
+        "number": 126,
+        "moduleId": 22,
+        "position": 1,
+        "title": "Fidéliser et améliorer son activité"
+      },
+      {
+        "id": "l127",
+        "number": 127,
+        "moduleId": 22,
+        "position": 2,
+        "title": "Cartographier ses opérations"
+      },
+      {
+        "id": "l128",
+        "number": 128,
+        "moduleId": 22,
+        "position": 3,
+        "title": "Mesurer les indicateurs utiles"
+      },
+      {
+        "id": "l129",
+        "number": 129,
+        "moduleId": 22,
+        "position": 4,
+        "title": "Améliorer le service et la relation client"
+      },
+      {
+        "id": "l130",
+        "number": 130,
+        "moduleId": 22,
+        "position": 5,
+        "title": "Automatiser les tâches répétitives"
+      },
+      {
+        "id": "l131",
+        "number": 131,
+        "moduleId": 22,
+        "position": 6,
+        "title": "Mettre des agents sous contrôle"
+      },
+      {
+        "id": "l132",
+        "number": 132,
+        "moduleId": 22,
+        "position": 7,
+        "title": "Préparer une croissance responsable"
+      }
+    ]
+  }
+]
